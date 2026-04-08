@@ -1,16 +1,23 @@
-# React + Vite
+# 🏨 QuickStay – Plateforme de réservation d’hôtels
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## QuickStay est une application front-end moderne développée avec React et React Router, offrant une expérience utilisateur fluide et responsive pour la réservation d’hôtels et la gestion des établissements. Elle intègre des fonctionnalités à la fois pour les clients et les propriétaires d’hôtels, avec une interface claire et intuitive.
 
-Currently, two official plugins are available:
+## Fonctionnalités principales :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Navigation fluide : Navbar et sidebar adaptatives pour un accès rapide aux pages et aux sections principales.
+Page d’accueil immersive : Hero section avec formulaire de recherche dynamique, destinations prédéfinies et filtre par date et nombre de voyageurs.
+Offres exclusives : Section mettant en avant des promotions limitées avec détails, prix réduit et date d’expiration.
+Catalogue d’hôtels : Affichage des hôtels avec cartes interactives incluant images, prix, notation, localisation et bouton de réservation.
+Gestion des hôtels pour les propriétaires : Dashboard, ajout et liste des chambres avec navigation dédiée.
+Authentification et profil utilisateur : Intégration de Clerk pour la gestion sécurisée des utilisateurs.
+Responsive design : Adaptation sur mobile et desktop grâce à Tailwind CSS pour une expérience cohérente sur tous les appareils.
 
-## React Compiler
+## Technologies utilisées :
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React, React Router
+Tailwind CSS pour le style
+Clerk pour l’authentification utilisateur
+Gestion dynamique des assets et des données statiques (images, villes, offres)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Objectif du projet :
+Créer une plateforme complète qui permet aux voyageurs de trouver et réserver des hôtels facilement tout en offrant aux propriétaires un espace pour gérer leurs établissements et chambres de manière intuitive.
