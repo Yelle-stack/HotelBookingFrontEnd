@@ -1,8 +1,10 @@
-# 🏨 QuickStay – Plateforme de réservation d’hôtels
-
-## QuickStay est une application front-end moderne développée avec React et React Router, offrant une expérience utilisateur fluide et responsive pour la réservation d’hôtels et la gestion des établissements. Elle intègre des fonctionnalités à la fois pour les clients et les propriétaires d’hôtels, avec une interface claire et intuitive.
-
+# 🏨 QuickStay – Hotel Booking Platform
 ![image alt](https://github.com/Yelle-stack/HotelBookingFrontEnd/blob/a4ea4f573ad1612e0bfdf0ad202d64adec2aa2e2/QuickStayHome.png)
+
+## En. QuickStay – Hotel Booking Platfor. A modern React front-end for discovering and booking hotels with ease. Features include an interactive search, exclusive offers, responsive hotel listings, and a dedicated dashboard for hotel owners. Built with React, Tailwind CSS, and Clerk for seamless authentication.
+
+## Fr. QuickStay est une application front-end moderne développée avec React et React Router, offrant une expérience utilisateur fluide et responsive pour la réservation d’hôtels et la gestion des établissements. Elle intègre des fonctionnalités à la fois pour les clients et les propriétaires d’hôtels, avec une interface claire et intuitive.
+
 ## Fonctionnalités principales :
 
 Navigation fluide : Navbar et sidebar adaptatives pour un accès rapide aux pages et aux sections principales.
